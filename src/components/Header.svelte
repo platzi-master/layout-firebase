@@ -1,3 +1,7 @@
+<script>
+  import Hero from './Hero.svelte';
+</script>
+
 <style>
   .Header {
     background-color: #1a73e8;
@@ -43,5 +47,6 @@
         </ul>
       </div>
     </div>
+    <Hero />
   </div>
 </div>
