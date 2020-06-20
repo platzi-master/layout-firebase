@@ -1,2 +1,6 @@
-# svelte-quickstart
-The Svelte Quickstart
+# Layout Firebase
+Practicing:
+
+- HTML
+- CSS
+- Svelte
