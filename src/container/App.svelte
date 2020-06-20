@@ -1,5 +1,6 @@
 <script>
   import Header from '../components/Header.svelte'
+  import Analytics from '../components/Analytics.svelte'
 </script>
 
 <style>
@@ -17,4 +18,5 @@
 
 <main>
   <Header />
+  <Analytics />
 </main>

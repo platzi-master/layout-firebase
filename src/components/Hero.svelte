@@ -1,6 +1,7 @@
 <style>
   .Hero {
     margin: 2em 0 0 0;
+    min-height: 400px;
   }
   .Hero-content {
     display: flex;
